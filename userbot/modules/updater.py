@@ -168,7 +168,7 @@ async def upstream(event):
         return
 
     if changelog == "" and not force_update:
-        await edit_delete(xx, "**💠 AkihiroProject Sudah Versi Terbaru**")
+        await edit_delete(xx, "**💠 Arul-userbot Sudah Versi Terbaru**")
         return repo.__del__()
 
     if conf == "" and not force_update:

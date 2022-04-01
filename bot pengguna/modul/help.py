@@ -35,7 +35,7 @@ async def help(event):
         )
         await event.reply(
             f"╭┄──────┈┄┈──────┄\n"
-            f"│ ▸ **Daftar Perintah AkihiroProject :**\n"
+            f"│ ▸ **Daftar Perintah Arul-Userbot :**\n"
             f"│ ▸ **Jumlah** `{len(modules)}` **Modules**\n"
             f"│ ▸ **Owner:** [{user.first_name}](tg://user?id={user.id})\n"
             f"├┄─────┈┄┈─────┄\n"

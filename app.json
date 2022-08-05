@@ -1,9 +1,9 @@
 {
-  "name": "Akihiro Project",
-  "description": "[AkihiroProject] userbot Telegram modular yang berjalan pada Python 3.9+",
+  "name": "Arul-userbot",
+  "description": "[Arul-userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/02b3dbeb4df30582f0d66.jp",
   "keywords": ["telegram", "userbot", "akihiroproject", "modular", "python"],
-  "repository": "https://github.com/akihiro69/AkihiroProject",
+  "repository": "https://github.com/kingracing/Adam-userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
